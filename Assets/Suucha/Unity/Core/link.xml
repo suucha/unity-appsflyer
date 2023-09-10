@@ -1,0 +1,3 @@
+﻿<linker>
+  <assembly fullname="Suucha.Unity.Core" preserve="all"/>
+</linker>
