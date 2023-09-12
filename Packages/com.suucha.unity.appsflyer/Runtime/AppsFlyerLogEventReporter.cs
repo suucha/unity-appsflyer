@@ -49,7 +49,7 @@ namespace SuuchaStudio.Unity.LogEvents.AppsFlyers
 
     }
 
-    internal class Loom : SuuchaMonoBehaviourBase
+    internal class Loom : MonoBehaviour
     {
         public static int maxThreads = 8;
         static int numThreads;
@@ -107,7 +107,7 @@ namespace SuuchaStudio.Unity.LogEvents.AppsFlyers
         }
         public static void QueueOnMainThread(Action action, float time)
         {
-            Current.Logger.LogDebug($"QueueOnMainThread entered.");
+            //Current.Logger.LogDebug($"QueueOnMainThread entered.");
             if (time != 0)
             {
                 lock (Current._delayed)
