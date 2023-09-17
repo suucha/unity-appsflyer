@@ -1,0 +1,19 @@
+{
+	"displayName": "Suucha AppsFlyer",
+	"category": "Unity",
+	"description": "Suucha AppsFlyer",
+	"keywords": [
+		"suucha",
+		"appsflyer",
+		"unity"
+	],
+	"dependencies": {
+		"com.suucha.unity.core": "1.0.0",
+		"appsflyer-unity-plugin": "6.5.4"
+	},
+	"author": "suucha",
+	"name": "com.suucha.unity.appsflyer",
+	"version": "1.0.0",
+	"type": "library",
+	"unity": "2019.3"
+}
