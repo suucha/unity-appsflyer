@@ -19,9 +19,9 @@
     }
   ],
   "dependencies": {
-    "appsflyer-unity-plugin": "ssh://git@github.com/AppsFlyerSDK/appsflyer-unity-plugin.git#upm",
+    "appsflyer-unity-plugin": "https://github.com/AppsFlyerSDK/appsflyer-unity-plugin.git#upm",
     "com.cysharp.unitask": "2.3.1",
-    "com.suucha.unity.core": "ssh://git@github.com/suucha/unity-core.git#upm_main",
+    "com.suucha.unity.core": "https://github.com/suucha/unity-core.git#upm_main",
     "com.svermeulen.extenject": "9.2.0-stcf3",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",

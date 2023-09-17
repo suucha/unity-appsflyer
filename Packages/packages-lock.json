@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "appsflyer-unity-plugin": {
-      "version": "ssh://git@github.com/AppsFlyerSDK/appsflyer-unity-plugin.git#upm",
+      "version": "https://github.com/AppsFlyerSDK/appsflyer-unity-plugin.git#upm",
       "depth": 0,
       "source": "git",
       "dependencies": {},
@@ -24,14 +24,14 @@
       }
     },
     "com.suucha.unity.core": {
-      "version": "ssh://git@github.com/suucha/unity-core.git#upm_main",
+      "version": "https://github.com/suucha/unity-core.git#upm_main",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.svermeulen.extenject": "9.2.0-stcf3",
         "com.cysharp.unitask": "2.3.1"
       },
-      "hash": "fb0d951721ecc2dbb16798f795e3a3c13e6031d8"
+      "hash": "c3ccc1ccaa542f3bcb60f4437a6fa07d1227a1c0"
     },
     "com.svermeulen.extenject": {
       "version": "9.2.0-stcf3",
